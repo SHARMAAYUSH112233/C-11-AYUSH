@@ -1,2 +1,1 @@
-# C-11-AYUSH
-THIS IS MY C 11 PROJECT
+# C11-project-
